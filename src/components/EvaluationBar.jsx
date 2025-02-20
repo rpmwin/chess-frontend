@@ -44,6 +44,7 @@ const EvaluationBar = ({ cp }) => {
           />
         </div>
       </div>
+      
       <div className="text-center mt-2 text-white">{cp/100} </div>
     </div>
   );
