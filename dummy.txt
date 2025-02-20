@@ -1,0 +1,1 @@
+{depth: 18, positionEvaluation: '-12', pv: '1 score cp -12 nodes 1709774 nps 818073 hashfull 7…e8g8 e1g1 c8d7 d1d3 b8c6 d4f5 d7f5 e4f5 d6d5 f1d1'}depth: 18positionEvaluation: "-12"pv: "1 score cp -12 nodes 1709774 nps 818073 hashfull 710 tbhits 0 time 2090 pv e7e5 g1f3 d7d6 d2d4 e5d4 f3d4 g8f6 b1c3 f8e7 f1e2 e8g8 e1g1 c8d7 d1d3 b8c6 d4f5 d7f5 e4f5 d6d5 f1d1"t
